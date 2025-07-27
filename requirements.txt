@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF
+deep-translator
+PyPDF2
+fpdf
+google-generativeai>=0.3.1
+
+streamlit
+python-dotenv
+google-generativeai
